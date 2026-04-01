@@ -1,4 +1,4 @@
-# Proyect1-JC
+# Proyect1-JENNIFER-CLAUDIA
 # 🌐 Hoja de Vida en Línea
 
 ## 👩‍💻 Autoras del Proyecto
